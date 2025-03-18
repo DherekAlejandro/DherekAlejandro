@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dherek Alejandro</h1>
 <h3 align="center"> Analista & Científico de datos </h3>
 
+
+
 <h1>👨‍💻Sobre mi</h1>
 
 <h3> Apasionado por la tecnología y el impacto de la ciencia de datos en la transformación digital. Me gusta resolver problemas con datos, experimentar con nuevas herramientas y compartir conocimiento. Me motiva la innovación y la creación de soluciones escalables que generen un impacto positivo en la industria y la sociedad.</h3>
@@ -24,32 +26,35 @@
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
+<table width="100%">
+        <tr>
+        <td valign="top" width="60%">
+        <img src="https://www.kaggle.com/static/images/site-logo.svg" height="40px"></img>        
+<a href="https://www.kaggle.com/dherekalejandro">
+       <img src="https://mai--kaggle-card--wdnwqn8bw5k9.code.run/dherekalejandro" width="500" height="200"></img>
+ </a>
+      <a href="https://github.com/dherekalejandro" target="_blank">
+        <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+      </a>
+      <a href="https://linkedin.com/in/dherekalejandro" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+      </a>
+      <a href="https://instagram.com/dherekalejandro" target="_blank">
+        <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
+      </a>
+      <a href="mailto:dherek.alejandro@gmail.com">
+          <img src="https://img.shields.io/static/v1?message=gmail&logo=gmail&label=dherekalejandro&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo" style="margin-bottom: 5px;"  />
+      </a>
+    </td>
+    <td valign="top" width="40%" align="center">
+      <img height="300" src="/Resources/PyGroup.png" alt="PyGroup" />
+    </td>
+        
+  </tr>
+</table>  
 
-<a href="https://github.com/dherekalejandro" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/dherekalejandro" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/dherekalejandro" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/dherekalejandro" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>  
-  
+<br/>
 
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img align="right" height="300" src="/Resources/PyGroup.png"  />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
 
 
 ## Tecnologías y Herramientas  
@@ -70,20 +75,7 @@
 <br/>  
 
 
-## Estadisticas  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dherekalejandro&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dherekalejandro&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
+ 
 
 <br/>  
 
@@ -93,4 +85,3 @@
 <br/>  
 
 
-<br />
