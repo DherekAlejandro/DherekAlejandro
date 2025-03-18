@@ -28,7 +28,7 @@
 
 <table width="100%">
         <tr>
-        <td valign="top" width="62%">
+        <td valign="top" width="65%">
         <img src="https://www.kaggle.com/static/images/site-logo.svg" height="40px"></img>        
         <a href="https://www.kaggle.com/dherekalejandro">
        <img src="https://mai--kaggle-card--wdnwqn8bw5k9.code.run/dherekalejandro" width="500" height="200"></img>
@@ -46,7 +46,7 @@
           <img src="https://img.shields.io/static/v1?message=gmail&logo=gmail&label=dherekalejandro&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo" style="margin-bottom: 5px;"  />
       </a>
     </td>
-    <td valign="top" width="38%" align="center">
+    <td valign="top" width="35%" align="center">
       <img height="300" src="/Resources/PyGroup.png" alt="PyGroup" />
     </td>
         
