@@ -1,5 +1,30 @@
-## Soy Dherek, Analista & Científico de datos  
-  
+<h1 align="center">Hi 👋, I'm Dherek Alejandro</h1>
+<h3 align="center"> Analista & Científico de datos </h3>
+
+<h1>👨‍💻Sobre mi</h1>
+
+<h3> Apasionado por la tecnología y el impacto de la ciencia de datos en la transformación digital. Me gusta resolver problemas con datos, experimentar con nuevas herramientas y compartir conocimiento. Me motiva la innovación y la creación de soluciones escalables que generen un impacto positivo en la industria y la sociedad.</h3>
+
+<h3>🔭 Actualmente trabajo en COCSA & AOG como Analista & Científico de datos </h3>
+<h3>🛡 Mi experiencia incluye:</h3>
+        <ul>
+            <li>Análisis de movilidad y tráfico mediante procesamiento de video, sensores IoT e inteligencia artificial para optimizar el flujo vehicular en entornos urbanos y aeroportuarios.</li>
+            <li>Desarrollo y optimización de modelos de IA para la toma de decisiones estratégicas en diferentes sectores.</li>
+            <li>Procesamiento y georreferenciación de datos con herramientas como QGIS y Python para mejorar el análisis geoespacial.</li>
+            <li>Desarrollo de modelos predictivos aplicando machine learning para la detección de patrones, predicción de congestión y optimización de procesos.</li>
+            <li>Implementación de tableros de control en Power BI para la visualización de datos en tiempo real y la generación de insights estratégicos.</li>
+        </ul>
+
+<h3>🎓 Ingeniero en ciencia de datos de la iberoamericana</h3>
+<h3>🤝 Miembro asociado de IEEE & ACM</h3>
+
+
+
+
+
+<br/>  
+
+<table><tr><td valign="top" width="50%">
 
 <a href="https://github.com/dherekalejandro" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -15,32 +40,10 @@
 </a>  
   
 
-<br/>  
-
-### Kaggle
-<img src="https://www.kaggle.com/static/images/site-logo.svg" height="40px"></img>
-
-<a href="https://www.kaggle.com/msjimenezc">
-  <img src="https://mai--kaggle-card--wdnwqn8bw5k9.code.run/dherekalejandro" width="600" height="300"></img>
-</a>
-
-### Github gist
-https://gist.github.com/Michael-Jimenez-C
-
-
-## Sobre mi  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 Actualmente desarrollo proyectos de IA en [COCSA](https://www.linkedin.com/company/cocsa-space/posts/?feedView=all).  
-  
-
-- ⚡ También desarrollo proyectos web en [AOG SAS](https://www.linkedin.com/company/104485434/).  
-
-
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/154446080?s=400&u=253324235679bb04cf2e988e916ad0c181dfe74a&v=4" align="center" style="width: 100%" />
+<img align="right" height="300" src="/Resources/PyGroup.png"  />
 </div>  
 
 
@@ -87,7 +90,7 @@ https://gist.github.com/Michael-Jimenez-C
 ![Profile views counter](https://komarev.com/ghpvc/?username=dherekalejandro&&style=flat-square)  
   
 
-<br/>  
+<br/>  
 
 
-<br />
+<br />
