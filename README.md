@@ -47,7 +47,7 @@
       </a>
     </td>
     <td valign="top" width="35%" align="center">
-      <img height="300" src="/Resources/PyGroup.png" alt="PyGroup" />
+      <img height="250" src="/Resources/PyGroup.png" alt="PyGroup" />
     </td>
         
   </tr>
