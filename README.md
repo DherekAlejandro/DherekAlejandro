@@ -3,25 +3,13 @@
 
 
 
-<h1>👨‍💻Sobre mi</h1>
+<h2>Sobre mi</h2>
 
-<h3> Apasionado por la tecnología y el impacto de la ciencia de datos en la transformación digital. Me gusta resolver problemas con datos, experimentar con nuevas herramientas y compartir conocimiento. Me motiva la innovación y la creación de soluciones escalables que generen un impacto positivo en la industria y la sociedad.</h3>
+<h3> Apasionado por la tecnología. Me gusta resolver problemas con datos, experimentar con nuevas herramientas y compartir conocimiento. Me motiva la innovación y la creación de soluciones escalables que generen un impacto positivo en la industria y la sociedad.</h3>
 
-<h3>🔭 Actualmente trabajo en COCSA & AOG como Analista & Científico de datos </h3>
-<h3>🛡 Mi experiencia incluye:</h3>
-        <ul>
-            <li>Análisis de movilidad y tráfico mediante procesamiento de video, sensores IoT e inteligencia artificial para optimizar el flujo vehicular en entornos urbanos y aeroportuarios.</li>
-            <li>Desarrollo y optimización de modelos de IA para la toma de decisiones estratégicas en diferentes sectores.</li>
-            <li>Procesamiento y georreferenciación de datos con herramientas como QGIS y Python para mejorar el análisis geoespacial.</li>
-            <li>Desarrollo de modelos predictivos aplicando machine learning para la detección de patrones, predicción de congestión y optimización de procesos.</li>
-            <li>Implementación de tableros de control en Power BI para la visualización de datos en tiempo real y la generación de insights estratégicos.</li>
-        </ul>
-
-<h3>🎓 Ingeniero en ciencia de datos de la iberoamericana</h3>
+<h3>🎓 Ingeniero en ciencia de datos</h3>
+<h3>🎓 Administrador público territorial</h3>
 <h3>🤝 Miembro asociado de IEEE & ACM</h3>
-
-
-
 
 
 <br/>  
@@ -33,7 +21,15 @@
         <a href="https://www.kaggle.com/dherekalejandro">
        <img src="https://mai--kaggle-card--wdnwqn8bw5k9.code.run/dherekalejandro" width="500" height="200"></img>
  </a>
-      <a href="https://github.com/dherekalejandro" target="_blank">
+      </td>
+    <td valign="top" width="35%" align="center">
+      <img height="250" src="/Resources/PyGroup.png" alt="PyGroup" />
+    </td>
+        
+  </tr>
+</table>  
+
+<a href="https://github.com/dherekalejandro" target="_blank">
         <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
       </a>
       <a href="https://linkedin.com/in/dherekalejandro" target="_blank">
@@ -45,14 +41,7 @@
       <a href="mailto:dherek.alejandro@gmail.com">
           <img src="https://img.shields.io/static/v1?message=gmail&logo=gmail&label=dherekalejandro&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo" style="margin-bottom: 5px;"  />
       </a>
-    </td>
-    <td valign="top" width="35%" align="center">
-      <img height="250" src="/Resources/PyGroup.png" alt="PyGroup" />
-    </td>
-        
-  </tr>
-</table>  
-
+      
 <br/>
 
 
