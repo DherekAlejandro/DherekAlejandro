@@ -19,7 +19,7 @@
         <td valign="top" width="65%">
         <img src="https://www.kaggle.com/static/images/site-logo.svg" height="40px"></img>        
         <a href="https://www.kaggle.com/dherekalejandro">
-       <img src="https://mai--kaggle-card--wdnwqn8bw5k9.code.run/dherekalejandro" width="500" height="200"></img>
+       <img src="[https://mai--kaggle-card--wdnwqn8bw5k9.code.run/](https://kaggle-profile-card.vercel.app/dherekalejandro" width="500" height="200"></img>
  </a>
       </td>
     <td valign="top" width="35%" align="center">
